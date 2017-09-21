@@ -1,0 +1,2 @@
+# hendraMetnum
+Tugas Metode numerik
